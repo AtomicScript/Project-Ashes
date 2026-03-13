@@ -1,0 +1,9 @@
+
+
+NOTES:
+
+## Python Network scanner 
+[1] : from scratch using socket, multithreading for performance
+[+] : How does scapy fit in this
+[+] : How does subprocess fit in this 
+[2] : using Nmap
