@@ -1,5 +1,3 @@
-
-
 NOTES:
 
 ## Python Network scanner 
@@ -7,3 +5,6 @@ NOTES:
 [+] : How does scapy fit in this
 [+] : How does subprocess fit in this 
 [2] : using Nmap
+
+A agressive -> threading
+S Safer -> Queue
